@@ -1,0 +1,1 @@
+from mm_sma_signals import MovingAverage
